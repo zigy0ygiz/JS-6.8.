@@ -46,6 +46,14 @@ a:hover {
     font-size: 20px;
 }
 
+.return {
+    width: 40%;
+    background-color: lightseagreen;
+    margin: 0 auto;
+    text-align: center;
+    padding: 15px 15px;  
+}
+
 h3, h4 {
     color:blue;
     margin: 0 auto;
