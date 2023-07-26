@@ -14,4 +14,7 @@ button.addEventListener('click', (event) => {
         input.value = '';
         duplicateField.textContent = '';
     }
+    else {
+        alert('Вы ничего не ввели!');
+    }
 })
